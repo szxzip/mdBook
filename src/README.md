@@ -1,7 +1,6 @@
-# 针对戒网瘾学校非法绑架未成年人的逃生方法解析
-## Tactical Guidance for Defense Against Illegal Abductions Perpetrated by Facilities of the Troubled Teens Industry
+# 针对戒网瘾学校非法绑架未成年人的逃生方法解析 (Tactical Guidance for Defense Against Illegal Abductions Perpetrated by Facilities of the Troubled Teens Industry)
 
-### 引言
+## 引言
 
 谨以此文向十余年以来戒网瘾学校及其有关事件中遇难的受害者致以最沉痛的悼念。
 
