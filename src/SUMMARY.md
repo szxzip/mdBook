@@ -1,5 +1,7 @@
 [引言](README.md)
 
+[重要参考书目及文件](reference.md)
+
 - [第一节：事发前](chapter_1.md)
     - [反应准备](chapter_1.1.md)
         - [对房间入口的加固和简易警铃的安装](chapter_1.1.1.md)
@@ -29,8 +31,6 @@
         - [提高力量利用率的方式](chapter_2.5.3.md)
     - [应对极度恐惧和肾上腺素分泌](chapter_2.6.md)
 - [第三节：事发后](chapter_3.md)
-
-[重要参考书目及文件](reference.md)
 
 ------------
 
