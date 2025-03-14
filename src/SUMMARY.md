@@ -30,6 +30,8 @@
     - [应对极度恐惧和肾上腺素分泌](chapter_2.6.md)
 - [第三节：事发后](chapter_3.md)
 
+[重要参考书目及文件](reference.md)
+
 ------------
 
-[重要参考书目及文件](reference.md)
+[注解及声明](comment.md)
