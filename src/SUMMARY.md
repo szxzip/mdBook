@@ -1,8 +1,4 @@
-# 引言
-
 [引言](README.md)
-
-# 正文
 
 - [第一节：事发前](chapter_1.md)
     - [反应准备](chapter_1.1.md)
