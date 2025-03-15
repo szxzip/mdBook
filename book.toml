@@ -6,5 +6,3 @@ language = "en"
 multilingual = false
 src = "src"
 
-[output.html]
-input-404 = "404.md"
