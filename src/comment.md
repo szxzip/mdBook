@@ -1,14 +1,18 @@
 ## 注解及声明
 
-《针对戒网瘾学校非法绑架未成年人的逃生方法解析》为暮光计划（Project Aurora）版权所有。本网站由《针对戒网瘾学校非法绑架未成年人的逃生方法解析》PDF原版转换生成，未对其内容作任何修改。
+《针对戒网瘾学校非法绑架未成年人的逃生方法解析》为暮光计划（Project Aurora）版权所有。本网站由PDF原版转换生成，未对其内容作任何修改。书中内容不代表镜像站搭建者立场。
 
 暮光计划 P. A. 项目网址：[https://proj3ctaurora.tilda.ws](https://proj3ctaurora.tilda.ws)
+
+![PA.png](assets/img/PA.png)
 
 <br>
 
 ------
 
 <br>
+
+Tips:
 
 > 至今一切社会的历史都是阶级斗争的历史。
 > 
