@@ -12,6 +12,7 @@
 
    以双眼作为目标时，由于直接命中的概率较低，必须不断重复攻击才能确保造成创伤。在极度紧张的情况下，肾上腺素分泌导致身体执行精细动作的能力下降是较为常见的现象，因此对双眼这一类面积较小的目标的攻击容易失误。在缺乏训练的情况下，唯一的解决方法是迅速地重复攻击的动作，不断尝试直至成功为止。
 
+   ![2.5.2-1.png](assets/img/2.5.2-1.png)
    
    图 B-11。（图片取自 The Little Black Book of Violence - Lawrence A. Kane, Kris Wilder, Lt. Col. John R. Finch, Marc MacYoung, Sgt. Rory Miller）
    

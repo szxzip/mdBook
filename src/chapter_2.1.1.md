@@ -6,5 +6,6 @@
 
 2. 在采取防卫措施的过程中不断移动脚步，增加变数，使敌方较难控制形势。在条件允许的情况下保持上述相对位置，避免遭受压制和围攻，如图 B-2。
 
+![2.1.1-1.png](assets/img/2.1.1-1.png)
 
 左图为图 B-1。中、右图为 B-2。（图片取自 How to Fight Multiple Assailants - Art of Manliness）
